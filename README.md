@@ -1,14 +1,13 @@
 # Loop Performance Comparison
 Performance Comparison LOOP with Condition and standard table and sorted table
 
-inspired by this post:
+inspired by this post: [ABAPforum.com - number of entries in internal table](https://www.abapforum.com/forum/viewtopic.php?f=1&t=21900&p=82019)
 
-https://www.abapforum.com/forum/viewtopic.php?f=1&t=21900
+German blog post on [Tricktresor.de](https://tricktresor.de): [New ABAP 7.40 Features](https://www.tricktresor.de/blog/abap-740-features-unter-der-lupe/)
 
 # Task
 The task is to get the number of table entries which fit the condition "True" in one field of the table.
-
-# Comparison types
+Comparison types
 short description of the different solutions
 
 ## P01_REDUCE        
