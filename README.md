@@ -46,4 +46,6 @@ Class which processes all different solution using a sorted table.
 # Comparison
 There are no run time measurements inside this class. 
 Use Transaction SAT to compare the performance.
-Filter result list by "HELP_P" to get a direct overview
+Filter result list by "HELP" or "=>P" to get a direct overview
+
+![Transaction SAT](https://www.tricktresor.de/wp-content/uploads/2017/04/2017-04-26_17-13-33-563x269.jpg "Transaction SAT")
